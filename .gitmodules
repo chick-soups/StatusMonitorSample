@@ -1,0 +1,3 @@
+[submodule "Packages/com.puremilk.status"]
+	path = Packages/com.puremilk.status
+	url = git@github.com:chick-soups/StatusMonitorForUnity.git
