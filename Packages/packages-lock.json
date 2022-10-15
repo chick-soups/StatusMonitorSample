@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.puremilk.status": {
-      "version": "file:com.puremilk.state",
+      "version": "file:com.puremilk.status",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
